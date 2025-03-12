@@ -29,7 +29,7 @@
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/social_media.gif?raw=true" width = 50px></picture> Find me on
 
 <p align="center">
-  <a href="www.linkedin.com/in/alan-alexis-suarez-moreno-960947355" target="_blank">
+  <a href="https://www.linkedin.com/in/alan-alexis-suarez-moreno-960947355" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin&perline=1" alt="LinkedIn"/>
   </a>
   <a href="[https://github.com/tu-usuario-github](https://github.com/alexis25091)" target="_blank">
